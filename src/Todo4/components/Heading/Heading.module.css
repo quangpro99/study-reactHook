@@ -1,0 +1,17 @@
+.heading{
+    color: red;
+}
+
+.btn{
+    padding: 4px 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.active{
+    background-color: red;
+}
+
+.primary{
+    background-color: pink;
+}

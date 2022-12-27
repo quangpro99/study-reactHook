@@ -1,0 +1,26 @@
+.paragraph{
+    color: green;
+    &:hover{
+        cursor: pointer;
+        opacity: 0.9;
+    }
+}
+
+.btn{
+    padding: 4px 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.active{
+    background-color: red;
+}
+
+.primary{
+    background-color: pink;
+}
+
+.disabled{
+    opacity: 0.5;
+    pointer-events: none;
+}
